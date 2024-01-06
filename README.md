@@ -1,10 +1,10 @@
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
-Link for the Website : resume-builder-three-taupe.vercel.app
+Link for the Website : https://resume-builder-three-taupe.vercel.app/
 
 Available Scripts
-resume-builder-three-taupe.vercel.app
+https://resume-builder-three-taupe.vercel.app/
  In the project directory, you can run:
 
 npm start
